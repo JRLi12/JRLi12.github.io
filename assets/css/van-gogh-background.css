@@ -27,37 +27,98 @@ body {
   pointer-events: none;
 }
 
+
+/* =========================================================
+   Main Layout
+   ========================================================= */
+
 .wrapper {
   position: relative;
   z-index: 1;
+
+  /* 关键：让整个主页更宽 */
+  width: 1240px !important;
+  max-width: calc(100vw - 60px) !important;
+  margin: 0 auto !important;
 }
+
+
+/* Desktop: left profile + right content */
+@media screen and (min-width: 961px) {
+
+  .wrapper {
+    display: grid !important;
+    grid-template-columns: 300px minmax(0, 1fr);
+    column-gap: 38px;
+    align-items: start;
+  }
+
+  header {
+    position: sticky !important;
+    top: 2em !important;
+
+    width: auto !important;
+    float: none !important;
+
+    margin: 2em 0 !important;
+  }
+
+  section {
+    width: auto !important;
+    float: none !important;
+
+    margin: 2em 0 !important;
+  }
+}
+
+
+/* =========================================================
+   Glass Cards
+   ========================================================= */
 
 header,
 section {
   box-sizing: border-box;
   color: var(--painting-text);
+
   background:
-    linear-gradient(135deg, rgba(255, 255, 255, 0.2), transparent 42%),
+    linear-gradient(
+      135deg,
+      rgba(255, 255, 255, 0.2),
+      transparent 42%
+    ),
     var(--painting-panel);
+
   border: 1px solid var(--painting-panel-border);
+
   box-shadow:
     0 18px 50px var(--painting-shadow),
     inset 0 1px 0 rgba(255, 255, 255, 0.72);
+
   -webkit-backdrop-filter: blur(14px) saturate(118%);
   backdrop-filter: blur(14px) saturate(118%);
 }
 
+
+/* Left profile card */
+
 header {
-  top: 2em;
-  padding: 28px 18px 20px;
+  padding: 30px 22px 26px;
   border-radius: 24px;
 }
 
+
+/* Right main content */
+
 section {
-  margin: 2em 0;
-  padding: 28px 26px 50px;
+  padding: 32px 38px 55px;
   border-radius: 28px;
 }
+
+
+/* =========================================================
+   Typography
+   ========================================================= */
 
 body h1,
 body h2,
@@ -82,6 +143,11 @@ body th {
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.36);
 }
 
+
+/* =========================================================
+   Publications Buttons
+   ========================================================= */
+
 .publications ol.bibliography li .links a.btn {
   color: var(--painting-strong);
   border-color: rgba(12, 23, 48, 0.72);
@@ -91,7 +157,13 @@ body th {
   color: #064f91 !important;
 }
 
+
+/* =========================================================
+   Dark Mode
+   ========================================================= */
+
 @media (prefers-color-scheme: dark) {
+
   :root {
     --painting-panel: rgba(7, 20, 48, 0.91);
     --painting-panel-border: rgba(242, 187, 57, 0.46);
@@ -136,26 +208,52 @@ body th {
   }
 }
 
+
+/* =========================================================
+   Tablet / Mobile
+   ========================================================= */
+
 @media print, screen and (max-width: 960px) {
+
+  .wrapper {
+    display: block !important;
+
+    width: auto !important;
+    max-width: calc(100vw - 30px) !important;
+
+    margin: 15px auto !important;
+  }
+
   header,
   section {
-    position: relative;
-    top: auto;
+    position: relative !important;
+    float: none !important;
+
+    width: 100% !important;
+
+    top: auto !important;
+
     border: 1px solid var(--painting-panel-border);
   }
 
   header {
     padding: 24px 18px;
-    margin-bottom: 18px;
+    margin: 0 0 18px !important;
   }
 
   section {
     padding: 24px 20px 40px;
-    margin: 0 0 20px;
+    margin: 0 0 20px !important;
   }
 }
 
+
+/* =========================================================
+   Print
+   ========================================================= */
+
 @media print {
+
   #van-gogh-background {
     display: none;
   }
