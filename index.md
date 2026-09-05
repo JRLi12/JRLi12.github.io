@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an undergraduate student in the **Xidian University–Virginia Tech Joint Program**, majoring in Big Data Management and Application.
+I am a **third-year undergraduate student** in the **Xidian University–Virginia Tech Joint Program**, majoring in Big Data Management and Application.
 
 My research focuses on **Embodied AI**, **Vision-Language Robot Learning**, **Long-Horizon Task Reasoning**, and **Interactive Multimodal Agents**. I am particularly interested in developing intelligent agents that can perceive multimodal environments, reason and plan over complex tasks, and interact reliably with the physical world.
 
