@@ -24,7 +24,7 @@ I am currently seeking **Ph.D. opportunities for Fall 2027**. Feel free to reach
   Advised by [Heng Ji](https://siebelschool.illinois.edu/about/people/faculty/hengji), [Jiateng Liu](https://lumos-jiateng.github.io/), and [Yifan Shen](https://shenyifans.github.io/).  
   Research on vision-language reasoning and embodied intelligence.
 
-- **Tsinghua University, THUNLP & Institute for Network Sciences and Cyberspace**
+- **Tsinghua University, THUNLP**
   Advised by [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/), [Xin Yi](https://www.insc.tsinghua.edu.cn/inscen/info/1255/1114.htm), [Shuning Zhang](https://zhangsn19.github.io/), and Lingxing Kong.
   Research on multimodal reward evaluation and reliable vision-language models.
 
