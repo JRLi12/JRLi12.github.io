@@ -1,0 +1,31 @@
+.badge {
+  display:inline-block; padding:.25em .55em; font-size:75%; font-weight:700; line-height:1;
+  text-align:center; white-space:nowrap; vertical-align:baseline; border-radius:.2rem;
+  color:#fff !important; background:#002D72; box-shadow:0 2px 8px rgba(0,0,0,.18);
+}
+:root { --global-theme-color:#075ca8; }
+.publications { margin-top:1.5rem; }
+.publications ol.bibliography { list-style:none; padding:0; margin:0; }
+.publications ol.bibliography > li { margin:0 0 32px; min-height:0; }
+.publications .pub-row { display:grid; grid-template-columns:270px minmax(0,1fr); column-gap:26px; align-items:center; width:100%; }
+.publications .pub-row.no-image { grid-template-columns:1fr; }
+.publications .pub-teaser-wrap { position:relative; width:270px; }
+.publications .teaser { display:block; width:270px; height:123px; object-fit:contain; background:#fff; border-radius:8px; box-shadow:3px 3px 8px rgba(0,0,0,.28); }
+.publications .pub-teaser-wrap .badge { position:absolute; top:7px; left:-4px; }
+.publications .pub-content { min-width:0; }
+.publications .title { font-weight:700; line-height:1.45; margin-bottom:4px; }
+.publications .author { line-height:1.45; margin-bottom:3px; }
+.publications .periodical { line-height:1.45; margin-bottom:7px; }
+.publications .links { margin-top:6px; }
+.publications .links a.btn { display:inline-block; color:#17213a; border:1px solid rgba(12,23,48,.72); padding:.12rem .5rem; margin:0 6px 4px 0; border-radius:4px; font-size:12px; text-decoration:none; }
+.publications .links a.btn:hover { color:var(--global-theme-color); border-color:var(--global-theme-color); }
+.publications .pub-note { color:#e74d3c; margin-left:2px; }
+.publications .pub-others { margin-top:4px; font-size:12px; }
+@media (prefers-color-scheme: dark) {
+  .publications .links a.btn { color:#fff; border-color:rgba(255,255,255,.78); }
+}
+@media print, screen and (max-width:700px) {
+  .publications .pub-row { grid-template-columns:1fr; row-gap:12px; }
+  .publications .pub-teaser-wrap { width:100%; max-width:360px; }
+  .publications .teaser { width:100%; max-width:360px; height:auto; }
+}

@@ -1,0 +1,54 @@
+main:
+
+  - title: "GroupToM-Bench: Benchmarking Group Theory of Mind and Nonlinear Social Emergence in MLLMs"
+    authors: "Weidong Tang, <strong>Jierui Li</strong>, Yueling Hou, Zihan Mei, Can Zhang, Xinyan Wan, Zhiyuan Liang, Pengfei Zhou, Yang You, Wangbo Zhao"
+    conference_short: "ACL 2026"
+    conference: "ACL 2026 Main Conference."
+    image: ./assets/img/grouptom.png
+    pdf: https://aclanthology.org/2026.acl-long.1859.pdf
+    arxiv: https://arxiv.org/abs/2606.04184
+    page: https://aclanthology.org/2026.acl-long.1859/
+    notes: "SAC Oral"
+
+  - title: "RouteGraph-Mona: Confusion-Aware Routing Fine-Tuning for Mineral Image Classification"
+    authors: "<strong>Jierui Li*</strong>, Zhiyuan Qi*, Hao Zhu, Yufan Liu, Jixian Liu, Shaojie Jiang, Jianda Wang, Yaqi Liu, Xiaotong Li, Wei Wang"
+    conference_short: "PRICAI 2026"
+    conference: "PRICAI 2026."
+    image: ./assets/img/routegraph.png
+    pdf: https://arxiv.org/pdf/2609.02282
+    arxiv: https://arxiv.org/abs/2609.02282
+    notes: "Accepted"
+    others: "* Equal contribution."
+
+  - title: "FurniReason: Zero-Shot Vision-Language Reasoning for Manual-Guided Furniture Assembly"
+    authors: "Zhiyuan Qi*, <strong>Jierui Li*</strong>, Yifan Shen, Cheng Qian, Jiateng Liu"
+    conference: "AAAI 2027, under review."
+    notes: "Under Review"
+    others: "* Equal contribution."
+
+  - title: "CueShiftBench: How Heuristic Cues Shape Multimodal Reward Evaluation"
+    authors: "<strong>Jierui Li</strong>, Yueling Hou, Zhiyuan Qi, Bo Zhang, Ziqi Ma, Jixian Liu, Wenyue Ban, Shuning Zhang, Yifan Shen, Weidong Tang, Qian Jiang, Xin Yi, Lingxing Kong"
+    conference: "ACL Rolling Review, August 2026, under review."
+    notes: "Under Review"
+
+  - title: "Fine-Grained Drift Modeling via Unmixed Representations for Online Time Series Forecasting"
+    authors: "<strong>Jierui Li</strong>, Weidong Tang, Jixian Liu, Shuning Zhang, Zhi Zheng, Lingxing Kong"
+    conference: "WSDM 2026, under review."
+    notes: "Under Review"
+
+  - title: "FedOLoRA: Demand-Aware Recycling of Fixed-Capacity Orthogonal Memory for Federated Continual LoRA"
+    authors: "Zhuodong Liu*, <strong>Jierui Li*</strong>, Tianzuo Yuan, Xiangyu Li"
+    conference: "AAAI 2027, under review."
+    notes: "Under Review"
+    others: "* Equal contribution."
+
+  - title: "CoTAC: Collaborative Contextualization, Tokenization, and Calibration for Multimodal Generative Recommendation"
+    authors: "Zhuodong Liu*, Yunhe Ni*, <strong>Jierui Li*</strong>, Yuchen Zhang, Peiyu Hu"
+    conference: "AAAI 2027, under review."
+    notes: "Under Review"
+    others: "* Equal contribution."
+
+  - title: "Shape Feature Preservation Network for Building Change Detection"
+    authors: "Xiaotong Li, Jianda Wang, Haoyu Wang, Hao Zhu, <strong>Jierui Li</strong>, Huihui Dong, Biao Hou"
+    conference: "IEEE Transactions on Geoscience and Remote Sensing, under review."
+    notes: "Under Review"
