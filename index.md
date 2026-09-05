@@ -37,7 +37,7 @@ I am currently seeking **Ph.D. opportunities for Fall 2027**. Feel free to reach
   Research on online time-series forecasting and fine-grained concept drift modeling.
 
 - **Xidian University**  
-  Advised by **Hao Zhu**.  
+  Advised by [Hao Zhu](https://faculty.xidian.edu.cn/ZHUHAO/en/index.htm).  
   Research on parameter-efficient visual adaptation and visual representation learning.
 
 
