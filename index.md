@@ -4,32 +4,47 @@ layout: homepage
 
 ## About Me
 
-<div class="about-me" markdown="1">
-
 I am an undergraduate student in the **Xidian University–Virginia Tech Joint Program**, majoring in Big Data Management and Application.
 
 My research focuses on **Embodied AI**, **Vision-Language Robot Learning**, **Long-Horizon Task Reasoning**, and **Interactive Multimodal Agents**. I am particularly interested in developing intelligent agents that can perceive multimodal environments, reason and plan over complex tasks, and interact reliably with the physical world.
 
-I have conducted research at the **University of Illinois Urbana-Champaign (UIUC)**, **Tsinghua University**, **National University of Singapore (NUS)**, **University of Science and Technology of China (USTC)**, and **Xidian University**.
+I am currently seeking **Ph.D. opportunities for Fall 2027**. Feel free to reach out for research collaboration or potential opportunities.
 
-**I am currently seeking Ph.D. opportunities for Fall 2027.** Feel free to reach out for research collaboration or potential opportunities.
-
-</div>
 
 ## Research Interests
-- **Embodied AI / Robot Learning:** Vision-Language Robot Learning, Spatial and Physical Reasoning, Long-Horizon Task Planning
-- **Multimodal Agents:** Multimodal Reasoning, Agent Evaluation, Reward Modeling, Interactive Agents
+
+- **Embodied AI:** Vision-Language Robot Learning, Physical and Spatial Reasoning
+- **Multimodal Agents:** Multimodal Reasoning, Agent Evaluation, Reward Modeling
+- **Long-Horizon Reasoning:** Task Planning, Sequential Decision-Making, Interactive Agents
+
+
+## Research Experience
+
+- **University of Illinois Urbana-Champaign (UIUC), BLENDER Lab**  
+  Advised by [Heng Ji](https://siebelschool.illinois.edu/about/people/faculty/hengji), [Jiateng Liu](https://lumos-jiateng.github.io/), and [Yifan Shen](https://shenyifans.github.io/).  
+  Research on vision-language reasoning and embodied intelligence.
+
+- **Tsinghua University**  
+  Advised by [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/), [Xin Yi](https://www.insc.tsinghua.edu.cn/inscen/info/1255/1114.htm), [Shuning Zhang](https://zhangsn19.github.io/), and Lingxing Kong.  
+  Research on multimodal reward evaluation and reliable vision-language models.
+
+- **National University of Singapore (NUS), HPC-AI Lab**  
+  Advised by [Yang You](https://www.comp.nus.edu.sg/~youy/).  
+  Research on multimodal multi-agent reasoning and group-level Theory of Mind.
+
+- **University of Science and Technology of China (USTC)**  
+  Advised by [Zhi Zheng](https://zhengzhi-1997.github.io/index.html).  
+  Research on online time-series forecasting and fine-grained concept drift modeling.
+
+- **Xidian University**  
+  Advised by **Hao Zhu**.  
+  Research on parameter-efficient visual adaptation and visual representation learning.
+
 
 ## News
 
-- **[Sep. 2026]** **RouteGraph-Mona** is now available on arXiv.
-- **[Aug. 2026]** 🎉 **RouteGraph-Mona** was accepted to **PRICAI 2026**.
-- **[Aug. 2026]** Submitted **CueShiftBench** to **ACL Rolling Review**.
-- **[Aug. 2026]** Submitted our work on **fine-grained drift modeling for online time-series forecasting** to **WSDM 2026**.
-- **[Jul. 2026]** Submitted three papers — **FurniReason**, **FedOLoRA**, and **CoTAC** — to **AAAI 2027**.
+- **[Aug. 2026]** 🎉 **RouteGraph-Mona** was accepted as a **full paper** to **PRICAI 2026**.
 - **[Apr. 2026]** 🎉 **GroupToM-Bench** was accepted to **ACL 2026 Main Conference (SAC Oral)**.
-- **[Apr. 2026]** Joined the **BLENDER Lab at UIUC**, advised by Prof. Heng Ji.
-- **[Dec. 2025]** Joined the **HPC-AI Lab at NUS**, advised by Prof. Yang You.
-- **[Sep. 2025]** Joined the **Natural Language Processing Laboratory at Tsinghua University**, advised by Prof. Zhiyuan Liu and Prof. Xin Yi.
+
 
 {% include publications.md %}
