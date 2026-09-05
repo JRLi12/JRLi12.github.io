@@ -264,3 +264,35 @@ body th {
     box-shadow: none;
   }
 }
+
+/* ===== Typography tuning ===== */
+
+section {
+  font-size: 17px !important;
+  line-height: 1.65 !important;
+}
+
+section p,
+section li {
+  font-size: 17px !important;
+  line-height: 1.65 !important;
+}
+
+section h2 {
+  font-size: 27px !important;
+  line-height: 1.25 !important;
+  margin-top: 30px !important;
+  margin-bottom: 16px !important;
+}
+
+section h3 {
+  font-size: 21px !important;
+}
+
+section strong {
+  font-weight: 700;
+}
+
+section a {
+  font-size: inherit;
+}
