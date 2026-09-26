@@ -30,6 +30,14 @@ Advised by <a href="https://siebelschool.illinois.edu/about/people/faculty/hengj
 Research on vision-language reasoning and embodied intelligence.
 </li>
 
+
+<li>
+<strong>Virginia Tech</strong><br>
+Advised by <a href="https://xuanwang91.github.io/">Xuan Wang</a>.<br>
+Research on multimodal reasoning and reliable agentic systems.
+</li>
+
+
 <li>
 <strong>Tsinghua University, THUNLP</strong><br>
 Advised by <a href="https://nlp.csai.tsinghua.edu.cn/~lzy/">Zhiyuan Liu</a>,
