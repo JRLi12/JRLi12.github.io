@@ -23,9 +23,12 @@ I am currently seeking **MS or Ph.D. opportunities for Fall 2027**. Feel free to
 <ul class="research-exp">
 
 <li>
-<strong>University of Illinois Urbana-Champaign (UIUC), PLAN Lab</strong><br>
-Advised by <a href="https://isminoula.github.io/">Ismini Lourentzou</a>.<br>
-Research on vision-language reasoning and embodied intelligence.
+  <strong>University of Illinois Urbana-Champaign (UIUC), BLENDER Lab</strong><br>
+  Advised by
+  <a href="https://siebelschool.illinois.edu/about/people/faculty/hengji">Heng Ji</a>,
+  <a href="https://lumos-jiateng.github.io/">Jiateng Liu</a>, and
+  <a href="https://shenyifans.github.io/">Yifan Shen</a>.<br>
+  Research on vision-language reasoning and embodied intelligence.
 </li>
 
 
