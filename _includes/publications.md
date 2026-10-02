@@ -8,7 +8,10 @@
   <div class="pub-row{% unless link.image %} no-image{% endunless %}">
     {% if link.image %}
     <div class="pub-teaser-wrap">
-      <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" alt="{{ link.title }}">
+      <img src="{{ link.image }}"
+           class="teaser img-fluid z-depth-1"
+           alt="{{ link.title }}"
+           {% if link.image_fit %}style="object-fit: {{ link.image_fit }} !important;"{% endif %}>
       {% if link.conference_short %}<abbr class="badge">{{ link.conference_short }}</abbr>{% endif %}
     </div>
     {% endif %}
