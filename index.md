@@ -68,6 +68,7 @@ Research on parameter-efficient visual adaptation and visual representation lear
 
 ## News
 
+- **[Sep. 2026]** 🎉 **AssemState** was accepted as a **poster** to the **NeurIPS 2026 Workshop on Physical World AI (PhysWorldAI)**.
 - **[Aug. 2026]** 🎉 **RouteGraph-Mona** was accepted as a **full paper** to **PRICAI 2026**.
 - **[Apr. 2026]** 🎉 **GroupToM-Bench** was accepted to **ACL 2026 Main Conference (SAC Oral)**.
 
