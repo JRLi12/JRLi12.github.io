@@ -2,9 +2,11 @@ main:
 
   - title: "AssemState: Manual and Physical-State-Guided Reasoning for Zero-Shot Furniture Assembly"
     image: ./assets/img/assemby_state.png
+    image_fit: cover
+    image_position: center
     authors: "Zhiyuan Qi*, <strong>Jierui Li*</strong>, Yifan Shen, Cheng Qian, Jiateng Liu"
     conference_short: "NeurIPS 2026 WS"
-    conference: "NeurIPS Workshop on Physical World AI (PhysWorldAI), 2026."
+    conference: "NeurIPS 2026 Workshop on Physical World AI (PhysWorldAI), 2026."
     pdf: ""
     page: ""
     notes: "Poster"
