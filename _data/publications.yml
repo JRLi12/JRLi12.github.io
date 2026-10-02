@@ -1,5 +1,13 @@
 main:
 
+  - title: "AssemState: Manual and Physical-State-Guided Reasoning for Zero-Shot Furniture Assembly"
+    image: ./assets/img/assembly_state.png
+    authors: "Zhiyuan Qi*, <strong>Jierui Li*</strong>, Yifan Shen, Cheng Qian, Jiateng Liu"
+    conference_short: "NeurIPS 2026 WS"
+    conference: "NeurIPS 2026 Workshop on Physical World AI (PhysWorldAI), 2026."
+    notes: "Poster"
+    others: "* Equal contribution."
+
   - title: "GroupToM-Bench: Benchmarking Group Theory of Mind and Nonlinear Social Emergence in MLLMs"
     image: ./assets/img/grouptom.png
     authors: "Weidong Tang, <strong>Jierui Li</strong>, Yueling Hou, Zihan Mei, Can Zhang, Xinyan Wan, Zhiyuan Liang, Pengfei Zhou, Wangbo Zhao, Yang You"
