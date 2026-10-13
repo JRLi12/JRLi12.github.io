@@ -31,17 +31,16 @@ main:
     notes: "Full Paper"
     others: "* Equal contribution."
 
-  - title: "CueShiftBench: How Heuristic Cues Shape Multimodal Reward Evaluation"
-    authors: "<strong>Jierui Li</strong>, Yueling Hou, Zhiyuan Qi, Bo Zhang, Ziqi Ma, Jixian Liu, Wenyue Ban, Shuning Zhang, Yifan Shen, Weidong Tang, Qian Jiang, Xin Yi, Lingxing Kong"
-    conference_short: "ACL ARR"
-    conference: "Submitted to ACL Rolling Review, August 2026."
-    notes: "Under Review"
-
-
   - title: "When A Stays A: Disentangling Training-Free Repair in Spatial MCQA"
     authors: "<strong>Jierui Li</strong>, Meng Lu, Xuan Wang"
     conference_short: "ACL ARR"
     conference: "Submitted to ACL Rolling Review, October 2026."
+    notes: "Under Review"
+
+  - title: "CueShiftBench: How Heuristic Cues Shape Multimodal Reward Evaluation"
+    authors: "<strong>Jierui Li</strong>, Yueling Hou, Zhiyuan Qi, Bo Zhang, Ziqi Ma, Jixian Liu, Wenyue Ban, Shuning Zhang, Yifan Shen, Weidong Tang, Qian Jiang, Xin Yi, Lingxing Kong"
+    conference_short: "ACL ARR"
+    conference: "Submitted to ACL Rolling Review, August 2026."
     notes: "Under Review"
 
   - title: "FurniReason: Zero-Shot Vision-Language Reasoning for Manual-Guided Furniture Assembly"
