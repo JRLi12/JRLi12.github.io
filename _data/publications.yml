@@ -37,6 +37,13 @@ main:
     conference: "Submitted to ACL Rolling Review, August 2026."
     notes: "Under Review"
 
+
+  - title: "When A Stays A: Disentangling Training-Free Repair in Spatial MCQA"
+    authors: "<strong>Jierui Li</strong>, Meng Lu, Xuan Wang"
+    conference_short: "ACL ARR"
+    conference: "Submitted to ACL Rolling Review, October 2026."
+    notes: "Under Review"
+
   - title: "FurniReason: Zero-Shot Vision-Language Reasoning for Manual-Guided Furniture Assembly"
     authors: "Zhiyuan Qi*, <strong>Jierui Li*</strong>, Yifan Shen, Cheng Qian, Jiateng Liu"
     conference_short: "AAAI 2027"
