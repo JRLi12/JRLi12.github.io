@@ -8,8 +8,6 @@ main:
     conference_short: "NeurIPS 2026 WS"
     conference: "NeurIPS 2026 Workshop on Physical World AI (PhysWorldAI), 2026."
     pdf: "https://arxiv.org/pdf/2610.08446"
-    arxiv: "https://arxiv.org/abs/2610.08446"
-    code: "https://github.com/togekiss0603/AssemState"
     page: "https://togekiss0603.github.io/AssemState/"
     notes: "Poster"
     others: "* Equal contribution."
